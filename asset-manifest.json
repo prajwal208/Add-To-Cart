@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Add-To-Cart/static/css/main.73249e7e.chunk.css",
-    "main.js": "/Add-To-Cart/static/js/main.df0bedec.chunk.js",
-    "main.js.map": "/Add-To-Cart/static/js/main.df0bedec.chunk.js.map",
+    "main.css": "/Add-To-Cart/static/css/main.c13180f4.chunk.css",
+    "main.js": "/Add-To-Cart/static/js/main.9999fa66.chunk.js",
+    "main.js.map": "/Add-To-Cart/static/js/main.9999fa66.chunk.js.map",
     "runtime-main.js": "/Add-To-Cart/static/js/runtime-main.392faa04.js",
     "runtime-main.js.map": "/Add-To-Cart/static/js/runtime-main.392faa04.js.map",
     "static/js/2.d981816f.chunk.js": "/Add-To-Cart/static/js/2.d981816f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d99c2c7d.chunk.js": "/Add-To-Cart/static/js/3.d99c2c7d.chunk.js",
     "static/js/3.d99c2c7d.chunk.js.map": "/Add-To-Cart/static/js/3.d99c2c7d.chunk.js.map",
     "index.html": "/Add-To-Cart/index.html",
-    "static/css/main.73249e7e.chunk.css.map": "/Add-To-Cart/static/css/main.73249e7e.chunk.css.map",
+    "static/css/main.c13180f4.chunk.css.map": "/Add-To-Cart/static/css/main.c13180f4.chunk.css.map",
     "static/js/2.d981816f.chunk.js.LICENSE.txt": "/Add-To-Cart/static/js/2.d981816f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.392faa04.js",
     "static/js/2.d981816f.chunk.js",
-    "static/css/main.73249e7e.chunk.css",
-    "static/js/main.df0bedec.chunk.js"
+    "static/css/main.c13180f4.chunk.css",
+    "static/js/main.9999fa66.chunk.js"
   ]
 }
