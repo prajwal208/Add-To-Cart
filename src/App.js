@@ -164,15 +164,20 @@ useEffect(() =>{
   return (
         <>
        <Router>
+       
         <Header getCartlength={getCartlength} />
-        <Switch>
-         <Route exact path="/">
-        <Products products={products} addToCart={addToCart}/>
-        </Route>
+        
 
+        <Switch>
         <Route exact path='/product'>
         <CartList cart={cart} DeleteFromCart={DeleteFromCart} clearCart={clearCart}  />
         </Route>
+
+         <Route exact path="/Add-To-Cart">
+        <Products products={products} addToCart={addToCart}/>
+        </Route>
+
+
 
         </Switch>
         </Router>

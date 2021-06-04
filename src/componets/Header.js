@@ -15,7 +15,7 @@ export default function Header({getCartlength}) {
             <button type="button" class="btn btn-primary btn-lg" id="btn11">GO To Cart  ({getCartlength()}) </button>
             </Link>
 
-                <Link to='/'>
+                <Link to='/Add-To-Cart'>
                 <button type="button" class="btn btn-primary btn-lg" id="btn22">View Product</button>
                 </Link>
             
